@@ -1,0 +1,28 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Arapey&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('components/banner.css');
+@import url('components/middle.css');
+@import url('components/button.css');
+@import url('components/footer.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Arapey', serif;
+  background-color: #FFFAF4;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Gentium Book Basic', serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+

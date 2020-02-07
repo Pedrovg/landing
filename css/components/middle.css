@@ -1,0 +1,33 @@
+.middle h2 {
+  display: flex;
+  justify-content: center;
+  color: #BFA165
+}
+
+.middle h3 {
+  color: #BFA165;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 200px;
+  padding: 10px 20px;
+  border: solid 1px lightgray;
+  text-align: center;
+}
+
+.owl{
+  margin-bottom: 89px;
+}
+
+.vold {
+  margin-bottom: 11px;
+}
+
+.card img {
+  width: 150px;
+}

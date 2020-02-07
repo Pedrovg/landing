@@ -1,0 +1,24 @@
+.bttn {
+  padding: 20px 0px;
+  background: transparent;
+  border-right: 1px solid lightgray;
+  border-left: 1px solid lightgray;
+  color: black;
+  font-weight: bold;
+  font-size: 19px;
+  display: flex;
+  justify-content: center;
+  margin: 0 390px;
+  background: linear-gradient(to right, #FFDA91 50%, transparent 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: all .5s ease-out;
+}
+
+.bttn:hover{
+  background-color: #FFDA91;
+  color: white;
+  border-color: #FFDA91;
+  transition: 0.4s ease-in;
+  background-position: left bottom;
+}
